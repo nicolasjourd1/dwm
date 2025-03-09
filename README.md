@@ -1,5 +1,5 @@
 # dwm
-My build of [dwm](https://suckless.org/dwm), using the [azerty patch](https://dwm.suckless.org/patches/azerty/) and custom scripts for sound/brightness buttons.
+My build of [dwm](https://dwm.suckless.org/), using the [azerty patch](https://dwm.suckless.org/patches/azerty/) and custom scripts for sound/brightness buttons.
 
 # Building
 First, install `libx11`, `libxft`, `libxinerama`, `freetype2` and `fontconfig`. Packages namesmay wary depending on your system.
